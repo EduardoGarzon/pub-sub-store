@@ -1,0 +1,23 @@
+{
+    "name": "Luiz Eduardo Garzon",
+    "email": "luizeduardo3131@gmail.com",
+    "cpf": "11122233344",
+    "creditCard": {
+        "number": "111222333444555",
+        "securityNumber": "123"
+    },
+    "products": [
+        {
+            "name": "Red Dead Redemption 2",
+            "value": "99.99"
+        }
+    ],
+    "address": {
+        "zipCode": "1122334455",
+        "street": "Universitaria",
+        "number": "1000",
+        "neighborhood": "Universitario",
+        "city": "Rhoades",
+        "state": "New Hanover"
+    }
+}
